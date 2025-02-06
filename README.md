@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RamisettyRajkumar
 - 👀 I’m interested in ...data analytics 
 - 🌱 I’m currently learning...Advanced Data analytics 
-- 💞️ I’m looking to collaborate on ... I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ...
 Open-source projects, Data science projects and web applications.
 - 📫 How to reach me ... ramisettyrajkumar007@gmail.com
 - 😄 Pronouns: ...He/Him
